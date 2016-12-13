@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "spissslideshow", "spissslideshow.vcxproj", "{D8C25E02-7539-4448-B930-9DCF7B20155F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C25E02-7539-4448-B930-9DCF7B20155F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8C25E02-7539-4448-B930-9DCF7B20155F}.Debug|Win32.Build.0 = Debug|Win32
+		{D8C25E02-7539-4448-B930-9DCF7B20155F}.Release|Win32.ActiveCfg = Release|Win32
+		{D8C25E02-7539-4448-B930-9DCF7B20155F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
